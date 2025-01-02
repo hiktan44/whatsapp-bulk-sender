@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "whatsapp-sender-ht44"
+  },
+  "targets": {
+    "whatsapp-sender-ht44": {
+      "hosting": {
+        "whatsapp-sender": [
+          "whatsapp-sender-ht44-dfc76"
+        ]
+      }
+    }
+  }
+}
